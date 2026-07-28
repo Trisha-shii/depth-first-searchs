@@ -120,7 +120,8 @@ F H <BR>
 ['0', '1', '2', '3', '4']
 
 ### OUTPUT:
-![Uploading image.png…]()
+<img width="253" height="121" alt="image" src="https://github.com/user-attachments/assets/30f58d57-2661-40de-8c18-4df91d9dae50" />
+
 
 
 <hr>
