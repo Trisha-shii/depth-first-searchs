@@ -83,7 +83,7 @@ visited = defaultdict(bool)
 path = []
 
 traversed_path = dfs(graph, start, visited, path)
-print(traversed_path)A
+print(traversed_path)
 ```
 <hr>
 <h3>Sample Input</h3>
